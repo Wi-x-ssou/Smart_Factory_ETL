@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Classroom upload bundle (not needed in the repo)
+Smart_Factory_ETL.zip
