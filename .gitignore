@@ -5,3 +5,6 @@ __pycache__/
 
 # Classroom upload bundle (not needed in the repo)
 Smart_Factory_ETL.zip
+
+# Video build intermediates (slides, audio, segments)
+video/build/
